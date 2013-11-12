@@ -171,6 +171,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Site.css">
+      <DependentUpon>Site.less</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.min.css">
+      <DependentUpon>Site.less</DependentUpon>
+    </Content>
     <Content Include="Content\Template\font\fontawesome-webfont.svg" />
     <Content Include="Content\Template\img\ashok.jpg" />
     <Content Include="Content\Template\img\bg_direction_nav.png" />
