@@ -194,6 +194,10 @@
     <Content Include="Content\Template\img\clients\youtube.png" />
     <Content Include="Content\Template\img\dots.png" />
     <Content Include="Content\Template\img\favicon\favicon.png" />
+    <Content Include="Content\Template\img\logo.gif" />
+    <Content Include="Content\Template\img\logo.jpg" />
+    <Content Include="Content\Template\img\logo.png" />
+    <Content Include="Content\Template\img\logo.tif" />
     <Content Include="Content\Template\img\parallax\1.png" />
     <Content Include="Content\Template\img\parallax\2.png" />
     <Content Include="Content\Template\img\parallax\3.png" />
